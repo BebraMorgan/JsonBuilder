@@ -4,6 +4,7 @@ class User
 {
     use JsonSerializable;
         ...
+}
 ```
 ```
         $user = User::query()->first();
