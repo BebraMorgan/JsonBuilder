@@ -4,7 +4,6 @@ namespace App\Http\JsonBuilder;
 
 
 use Illuminate\Http\JsonResponse;
-use function MongoDB\BSON\toJSON;
 
 class JsonBuilder
 {
